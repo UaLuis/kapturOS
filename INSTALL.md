@@ -33,7 +33,7 @@
 
    Розпокувуємо образ у LFS, але перед тим входимо у директорію /mnt/lfs
    ```bash
-   cd $LFS && tar -xpf $HOME/install_image.tar.xz
+   cd $LFS && tar -xpf $HOME/install_image_0.1.tar.xz
    ```
 6. **Видалення непотрібних файлів**:
 
