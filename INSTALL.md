@@ -27,7 +27,7 @@
 
    Заходимо в домашню директорію і завантажуємо образ ОС через wget
    ```bash
-   cd $HOME && wget https://github.com/UaLuis/kapturOS/releases/download/os/install_image.tar.xz
+   cd $HOME && wget https://github.com/UaLuis/kapturOS/releases/download/os_v2/install_image_0.1.tar.xz
    ```
 5. **Розпокування образу ОС у LFS директорію**:
 
